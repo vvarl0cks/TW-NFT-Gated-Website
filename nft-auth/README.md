@@ -4,6 +4,9 @@ This project demonstrates how you can restrict content on your website to only t
 
 You can use any token you like regardless if it's deployed using thirdweb or not. However, if the contract wasn't deployed on thirdweb initially, make sure you import the contract on the thirdweb dashboard.   
 
+### Demo https://warlocks-nft-gated.vercel.app   
+
+
 <a href="#"><img src="https://iili.io/JJ3jUmv.png" alt="JJ3jUmv.png" border="0" /></a>
 
 ## Installation
